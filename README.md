@@ -24,8 +24,8 @@ Destroy all the windows and end the program.
 
 ## Program:
 ```python
-# Developed By: 212222240082
-# Register Number: Rama E.K. Lekshmi
+# Developed By:  Rama E.K. Lekshmi
+# Register Number:212222240082
 ```
 # i) Convert BGR and RGB to HSV and GRAY
 ```
